@@ -32,7 +32,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p><p>
 Before installing osTicket, make sure your server meets these requirements:
 Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or MariaDB 10.0+ Required PHP Extensions: GD Library mbstring MySQLi XML cURL ZIP
-  after i met the requirments i installed the packet
+  in my case i used those config on a virtual machine in microsoft azure
+  after looking at my homelab checklist i procced to extract the files for the proper installation
 </p>
 <br />
 
@@ -40,7 +41,7 @@ Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or M
 
 <p><img width="1680" alt="Screen Shot 2025-02-07 at 7 51 40 PM" src="https://github.com/user-attachments/assets/88ec82fa-1c5b-4f21-802a-357a45138b7e" />
 
- ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, q
+ after installing and configuring c++ redistributable i then processed to install iis and mysql on to the desktop
 </p>
 <br />
 
@@ -60,9 +61,6 @@ Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or M
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p><img width="1680" alt="Screen Shot 2025-02-07 at 8 05 03 PM" src="https://github.com/user-attachments/assets/37eca98a-fe6f-4958-af1b-ee80033d2cb5" />
-<img width="1680" alt="Screen Shot 2025-02-07 at 8 15 40 PM" src="https://github.com/user-attachments/assets/729cad3d-8f91-4d0b-ac49-cf74b3c44a59" />
-<img width="1680" alt="Screen Shot 2025-02-07 at 8 23 48 PM" src="https://github.com/user-attachments/assets/57bc2b48-2df8-4d7b-a0cb-9a6010dec130" />
-<img width="1680" alt="Screen Shot 2025-02-07 at 8 52 23 PM" src="https://github.com/user-attachments/assets/c2b7d229-6da1-4e32-80d8-64747e5b0716" />
+
 
 <br />
