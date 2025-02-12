@@ -47,7 +47,7 @@ Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or M
 
 <img width="1680" alt="Screen Shot 2025-02-07 at 7 57 48 PM" src="https://github.com/user-attachments/assets/0911d70f-b252-4d35-9766-406e6ea9246f" />
 
-after configuring and downloading c++ version (2015-2022) i also need the php manager and iis or infromation services   
+after configuring and downloading c++ version (2015-2022) i also need to configur mysql server  so i used windows c: to look and observe the files in php manager and procced to download said file
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 00 30 PM" src="https://github.com/user-attachments/assets/bb679201-d098-44ca-b50f-33f1fde6b7bf" />
 
 
