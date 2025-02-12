@@ -54,13 +54,13 @@ iis is essential for hosting and managing web-based applications and services on
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 07 21 PM" src="https://github.com/user-attachments/assets/0c81ff56-59bd-4c0d-b994-20b54e50a4ad" />
 php manager simplifies the installation and management of php on your server , ensuring that its configured correctly for the php-based ticketing system
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 18 55 PM" src="https://github.com/user-attachments/assets/1a3df96f-71a7-4a38-9369-94d8a1bd9b06" />
-php manager
+after installing the os ticket i procced to create and username and password for sysadmin and gave roles to started to troubleshoot  problems that i created
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 52 23 PM" src="https://github.com/user-attachments/assets/fe034dfd-9014-4a62-82d0-9a5afc4999c5" />
-
+in os ticket i gave premissons so i could view/read and comment so i could problem slove and close the ticket ina timely matter 
 <img width="1680" alt="Screen Shot 2025-02-07 at 9 06 40 PM" src="https://github.com/user-attachments/assets/254cb5c9-5379-4ad2-9fec-ccc8b8b3e027" />
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 
 
 <br />
