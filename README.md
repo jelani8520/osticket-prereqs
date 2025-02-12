@@ -36,19 +36,28 @@ Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or M
 </p>
 <br />
 
-<p> />
+<p> 
 
 <p><img width="1680" alt="Screen Shot 2025-02-07 at 7 51 40 PM" src="https://github.com/user-attachments/assets/88ec82fa-1c5b-4f21-802a-357a45138b7e" />
 
- ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, q
 </p>
 <br />
 
-<p><img width="1680" alt="Screen Shot 2025-02-07 at 7 57 48 PM" src="https://github.com/user-attachments/assets/b5d4e452-656e-4180-a54d-1675e1c1de17" />
+<img width="1680" alt="Screen Shot 2025-02-07 at 7 57 48 PM" src="https://github.com/user-attachments/assets/0911d70f-b252-4d35-9766-406e6ea9246f" />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p><img width="1680" alt="Screen Shot 2025-02-07 at 7 57 48 PM" src="https://github.com/user-attachments/assets/d14b74be-ce18-4c15-8814-1ed45084b40b" />
+
+<img width="1680" alt="Screen Shot 2025-02-07 at 8 00 30 PM" src="https://github.com/user-attachments/assets/bb679201-d098-44ca-b50f-33f1fde6b7bf" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-07 at 8 07 21 PM" src="https://github.com/user-attachments/assets/0c81ff56-59bd-4c0d-b994-20b54e50a4ad" />
+
+<img width="1680" alt="Screen Shot 2025-02-07 at 8 18 55 PM" src="https://github.com/user-attachments/assets/1a3df96f-71a7-4a38-9369-94d8a1bd9b06" />
+
+<img width="1680" alt="Screen Shot 2025-02-07 at 8 52 23 PM" src="https://github.com/user-attachments/assets/fe034dfd-9014-4a62-82d0-9a5afc4999c5" />
+
+<img width="1680" alt="Screen Shot 2025-02-07 at 9 06 40 PM" src="https://github.com/user-attachments/assets/254cb5c9-5379-4ad2-9fec-ccc8b8b3e027" />
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p><img width="1680" alt="Screen Shot 2025-02-07 at 8 05 03 PM" src="https://github.com/user-attachments/assets/37eca98a-fe6f-4958-af1b-ee80033d2cb5" />
