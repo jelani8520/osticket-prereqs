@@ -28,10 +28,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - configure premission and install os ticket 
 
 <h2>Installation Steps</h2>
-  <p>
-<img src="(https://imgur.com/iLkkFmt) height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 </p>[<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before installing osTicket, make sure your server meets these requirements:
+Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or MariaDB 10.0+ Required PHP Extensions: GD Library mbstring MySQLi XML cURL ZIP
 </p>
 <br />
 
