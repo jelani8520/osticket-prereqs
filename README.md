@@ -50,13 +50,13 @@ Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or M
 after configuring and downloading c++ version (2015-2022) i also need to configur mysql server  so i used windows c: to look and observe the files in php manager and procced to download said file
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 00 30 PM" src="https://github.com/user-attachments/assets/bb679201-d098-44ca-b50f-33f1fde6b7bf" />
 
-
+iis is essential for hosting and managing web-based applications and services on  windows servers in this  instance is being installed for the use of the ticketing system to be functional 
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 07 21 PM" src="https://github.com/user-attachments/assets/0c81ff56-59bd-4c0d-b994-20b54e50a4ad" />
-iis 
+php manager simplifies the installation and management of php on your server , ensuring that its configured correctly for the php-based ticketing system
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 18 55 PM" src="https://github.com/user-attachments/assets/1a3df96f-71a7-4a38-9369-94d8a1bd9b06" />
 php manager
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 52 23 PM" src="https://github.com/user-attachments/assets/fe034dfd-9014-4a62-82d0-9a5afc4999c5" />
-thank you
+
 <img width="1680" alt="Screen Shot 2025-02-07 at 9 06 40 PM" src="https://github.com/user-attachments/assets/254cb5c9-5379-4ad2-9fec-ccc8b8b3e027" />
 
 
