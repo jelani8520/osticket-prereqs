@@ -29,21 +29,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
   
-</p>[<p>
+</p><p>
 Before installing osTicket, make sure your server meets these requirements:
 Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or MariaDB 10.0+ Required PHP Extensions: GD Library mbstring MySQLi XML cURL ZIP
+  after i met the requirments i installed the packet
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+<p> />
+
+<p><img width="1680" alt="Screen Shot 2025-02-07 at 7 51 40 PM" src="https://github.com/user-attachments/assets/88ec82fa-1c5b-4f21-802a-357a45138b7e" />
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-<p>
+<p><img width="1680" alt="Screen Shot 2025-02-07 at 7 57 48 PM" src="https://github.com/user-attachments/assets/b5d4e452-656e-4180-a54d-1675e1c1de17" />
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
