@@ -41,13 +41,13 @@ Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or M
 
 <p><img width="1680" alt="Screen Shot 2025-02-07 at 7 51 40 PM" src="https://github.com/user-attachments/assets/88ec82fa-1c5b-4f21-802a-357a45138b7e" />
 
- after installing and configuring c++ redistributable i then processed to install iis and mysql on to the desktop
+ in the picture above it shows all the files needed for installation 
 </p>
 <br />
 
 <img width="1680" alt="Screen Shot 2025-02-07 at 7 57 48 PM" src="https://github.com/user-attachments/assets/0911d70f-b252-4d35-9766-406e6ea9246f" />
 
-
+after configuring and downloading c++ version (2015-2022) i also need the php manager and iis or infromation services   
 <img width="1680" alt="Screen Shot 2025-02-07 at 8 00 30 PM" src="https://github.com/user-attachments/assets/bb679201-d098-44ca-b50f-33f1fde6b7bf" />
 
 
