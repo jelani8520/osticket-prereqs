@@ -56,11 +56,8 @@ MySQL Server Instance Configuration is the process of setting up and customizing
 after configuring and downloading c++ version (2015-2022) i also need to configur mysql server  so i used windows c: to look and observe the files in php manager and procced to download said file
 
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 26 23 PM" src="https://github.com/user-attachments/assets/b5fe763b-bc16-46ee-af67-f07e619c02e7" />
-lllllll
+
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 37 09 PM" src="https://github.com/user-attachments/assets/8a2890f3-7a95-422b-8696-d19e85b8762f" />
-
-
-
 
 
 iis is essential for hosting and managing web-based applications and services on  windows servers in this  instance is being installed for the use of the ticketing system to be functional 
@@ -70,10 +67,8 @@ iis is essential for hosting and managing web-based applications and services on
 php manager simplifies the installation and management of php on your server , ensuring that its configured correctly for the php-based ticketing system
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 54 43 PM" src="https://github.com/user-attachments/assets/a5151c50-6f05-4d37-958a-568f8b810563" />
 
-
-<img width="1680" alt="Screen Shot 2025-02-14 at 1 02 02 PM" src="https://github.com/user-attachments/assets/0c8e6478-7bf8-4014-8195-5a4b43984bba" />
-
-111
+after configuring php i was able to download and see osticket installer 
+<img width="1680" alt="Screen Shot 2025-02-14 at 1 02 02 PM" src="https://github.com/user-attachments/assets/0c8e6478-7bf8-4014-8195-5a4b43984bba" />   
 
 
 
