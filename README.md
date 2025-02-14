@@ -49,8 +49,7 @@ Ensures compatibility by providing the necessary DLLs (e.g., vcruntime140.dll, m
 Required by many third-party programs, games, and system utilities.
 
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 16 39 PM" src="https://github.com/user-attachments/assets/a68a9fb3-f720-42df-b9ea-6f2563482ab7" />
-111111
-
+MySQL Server Instance Configuration is the process of setting up and customizing a MySQL database server to optimize performance, security, and operational efficiency. It involves selecting the server type, configuring the network settings (such as the default port 3306 and remote access permissions)
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 21 45 PM" src="https://github.com/user-attachments/assets/d3a4ab4d-feb5-4c2d-9d90-aa5752e55770" />
 
 
