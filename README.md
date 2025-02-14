@@ -36,28 +36,46 @@ Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or M
   after looking at my homelab checklist i procced to extract the files for the proper installation
 </p>
 <br />
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 03 17 PM" src="https://github.com/user-attachments/assets/b878c245-367e-4750-b169-05b4466ea0b0" />
 
-<p> 
+<p> 11111
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 08 37 PM" src="https://github.com/user-attachments/assets/ff4e4980-d1ed-4992-97e5-f81e6facce28" />
 
-<p><img width="1680" alt="Screen Shot 2025-02-07 at 7 51 40 PM" src="https://github.com/user-attachments/assets/88ec82fa-1c5b-4f21-802a-357a45138b7e" />
+<p
 
  in the picture above it shows all the files needed for installation 
 </p>
 <br />
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 13 21 PM" src="https://github.com/user-attachments/assets/fed43315-7572-4684-a2a7-72021f1f38e2" />
+111111
 
-<img width="1680" alt="Screen Shot 2025-02-07 at 7 57 48 PM" src="https://github.com/user-attachments/assets/0911d70f-b252-4d35-9766-406e6ea9246f" />
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 16 39 PM" src="https://github.com/user-attachments/assets/a68a9fb3-f720-42df-b9ea-6f2563482ab7" />
+111111
+
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 21 45 PM" src="https://github.com/user-attachments/assets/d3a4ab4d-feb5-4c2d-9d90-aa5752e55770" />
+
 
 after configuring and downloading c++ version (2015-2022) i also need to configur mysql server  so i used windows c: to look and observe the files in php manager and procced to download said file
-<img width="1680" alt="Screen Shot 2025-02-07 at 8 00 30 PM" src="https://github.com/user-attachments/assets/bb679201-d098-44ca-b50f-33f1fde6b7bf" />
+
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 26 23 PM" src="https://github.com/user-attachments/assets/b5fe763b-bc16-46ee-af67-f07e619c02e7" />
+lllllll
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 37 09 PM" src="https://github.com/user-attachments/assets/8a2890f3-7a95-422b-8696-d19e85b8762f" />
+
+
+
+
 
 iis is essential for hosting and managing web-based applications and services on  windows servers in this  instance is being installed for the use of the ticketing system to be functional 
-<img width="1680" alt="Screen Shot 2025-02-07 at 8 07 21 PM" src="https://github.com/user-attachments/assets/0c81ff56-59bd-4c0d-b994-20b54e50a4ad" />
+
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 49 30 PM" src="https://github.com/user-attachments/assets/1cf2c25c-8df2-43b0-8333-c54f99516d5f" />
+
 php manager simplifies the installation and management of php on your server , ensuring that its configured correctly for the php-based ticketing system
-<img width="1680" alt="Screen Shot 2025-02-07 at 8 18 55 PM" src="https://github.com/user-attachments/assets/1a3df96f-71a7-4a38-9369-94d8a1bd9b06" />
-after installing the os ticket i procced to create and username and password for sysadmin and gave roles to started to troubleshoot  problems that i created
-<img width="1680" alt="Screen Shot 2025-02-07 at 8 52 23 PM" src="https://github.com/user-attachments/assets/fe034dfd-9014-4a62-82d0-9a5afc4999c5" />
-in os ticket i gave premissons so i could view/read and comment so i could problem slove and close the ticket ina timely matter 
-<img width="1680" alt="Screen Shot 2025-02-07 at 9 06 40 PM" src="https://github.com/user-attachments/assets/254cb5c9-5379-4ad2-9fec-ccc8b8b3e027" />
+<img width="1680" alt="Screen Shot 2025-02-14 at 12 54 43 PM" src="https://github.com/user-attachments/assets/a5151c50-6f05-4d37-958a-568f8b810563" />
+
+
+<img width="1680" alt="Screen Shot 2025-02-14 at 1 02 02 PM" src="https://github.com/user-attachments/assets/0c8e6478-7bf8-4014-8195-5a4b43984bba" />
+
+111
 
 
 
