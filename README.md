@@ -37,12 +37,13 @@ Enabling IIS (Internet Information Services) turns a Windows machine into a web 
 <br />
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 03 17 PM" src="https://github.com/user-attachments/assets/b878c245-367e-4750-b169-05b4466ea0b0" />
 
-<p> 11111
-<img width="1680" alt="Screen Shot 2025-02-14 at 12 08 37 PM" src="https://github.com/user-attachments/assets/ff4e4980-d1ed-4992-97e5-f81e6facce28" />
+<p> configuring PHP settings, enabling or disabling PHP extensions, and setting the default PHP version for different websites. This tool helps streamline PHP deployment on IIS, making it easier to manage PHP-based applications 
+  
+  <img width="1680" alt="Screen Shot 2025-02-14 at 12 08 37 PM" src="https://github.com/user-attachments/assets/ff4e4980-d1ed-4992-97e5-f81e6facce28" />
 
 <p
 
- in the picture above it shows all the files needed for installation 
+ i
 </p>
 <br />
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 13 21 PM" src="https://github.com/user-attachments/assets/fed43315-7572-4684-a2a7-72021f1f38e2" />
