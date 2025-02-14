@@ -57,8 +57,8 @@ after configuring and downloading c++ version (2015-2022) i also need to configu
 
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 26 23 PM" src="https://github.com/user-attachments/assets/b5fe763b-bc16-46ee-af67-f07e619c02e7" />
 
+To register a new PHP version in PHP Manager for IIS, first download and extract the desired PHP version from windows.php.net. Open IIS Manager (inetmgr), select your server, and double-click PHP Manager. Click "Register New PHP Version", browse to the php-cgi.exe file inside the PHP folder (e.g., C:\PHP\php-8.1.0\php-cgi.exe), and confirm. PHP Manager will update IIS settings automatically. Finally, restart IIS using iisreset to apply the changes. This ensures IIS runs the newly registered PHP version for web applications
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 37 09 PM" src="https://github.com/user-attachments/assets/8a2890f3-7a95-422b-8696-d19e85b8762f" />
-
 
 iis is essential for hosting and managing web-based applications and services on  windows servers in this  instance is being installed for the use of the ticketing system to be functional 
 
