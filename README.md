@@ -30,10 +30,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
   
 </p><p>
-Before installing osTicket, make sure your server meets these requirements:
-Web Server: Apache or Nginx PHP: Version 7.3 or higher Database: MySQL 5.6+ or MariaDB 10.0+ Required PHP Extensions: GD Library mbstring MySQLi XML cURL ZIP
-  in my case i used those config on a virtual machine in microsoft azure
-  after looking at my homelab checklist i procced to extract the files for the proper installation
+Enabling IIS (Internet Information Services) turns a Windows machine into a web server, allowing it to host websites and web applications by serving static and dynamic content over HTTP/HTTPS. It provides features like authentication, logging, security, and application pools for better resource management. Enabling CGI (Common Gateway Interface) within IIS allows the server to execute external scripts, such as Perl, Python, or PHP, to generate dynamic content in response to user requests. This is useful for running legacy applications, processing form data, and interacting with databases. Together, IIS and CGI enable a Windows server to efficiently handle web traffic and execute dynamic scripts for web applications.
+
+
 </p>
 <br />
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 03 17 PM" src="https://github.com/user-attachments/assets/b878c245-367e-4750-b169-05b4466ea0b0" />
