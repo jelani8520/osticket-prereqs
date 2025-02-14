@@ -44,7 +44,9 @@ Enabling IIS (Internet Information Services) turns a Windows machine into a web 
  Rewrite Module 2 is an extension for Internet Information Services (IIS) that allows you to create powerful URL rewriting rules. It enables web administrators to modify request URLs, redirect users, enforce SEO-friendly URLs, and implement security measures like HTTPS redirection.    
 <br />
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 13 21 PM" src="https://github.com/user-attachments/assets/fed43315-7572-4684-a2a7-72021f1f38e2" />
-111111
+Microsoft Visual C++ (2015-2022) Redistributable is a runtime package that provides the necessary libraries, components, and dependencies required to run applications developed using Microsoft Visual C++. It includes standard C and C++ runtime libraries like MSVCR (Microsoft C Runtime) and MSVCP (Microsoft C++ Standard Library), which are essential for many Windows applications. It supports applications built using Visual Studio 2015, 2017, 2019, and 2022.
+Ensures compatibility by providing the necessary DLLs (e.g., vcruntime140.dll, msvcp140.dll) for software to run properly.
+Required by many third-party programs, games, and system utilities.
 
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 16 39 PM" src="https://github.com/user-attachments/assets/a68a9fb3-f720-42df-b9ea-6f2563482ab7" />
 111111
