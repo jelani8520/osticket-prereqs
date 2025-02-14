@@ -60,11 +60,10 @@ after configuring and downloading c++ version (2015-2022) i also need to configu
 To register a new PHP version in PHP Manager for IIS, first download and extract the desired PHP version from windows.php.net. Open IIS Manager (inetmgr), select your server, and double-click PHP Manager. Click "Register New PHP Version", browse to the php-cgi.exe file inside the PHP folder (e.g., C:\PHP\php-8.1.0\php-cgi.exe), and confirm. PHP Manager will update IIS settings automatically. Finally, restart IIS using iisreset to apply the changes. This ensures IIS runs the newly registered PHP version for web applications
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 37 09 PM" src="https://github.com/user-attachments/assets/8a2890f3-7a95-422b-8696-d19e85b8762f" />
 
-iis is essential for hosting and managing web-based applications and services on  windows servers in this  instance is being installed for the use of the ticketing system to be functional 
-
+after enabling php i was able to meet the requirements for the osticket  functionality 
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 49 30 PM" src="https://github.com/user-attachments/assets/1cf2c25c-8df2-43b0-8333-c54f99516d5f" />
 
-php manager simplifies the installation and management of php on your server , ensuring that its configured correctly for the php-based ticketing system
+HeidiSQL is a free, lightweight, and powerful database management tool for MySQL, MariaDB, PostgreSQL, and Microsoft SQL Server. It provides a graphical user interface (GUI) to manage databases, execute SQL queries, edit tables, and handle database structures easily. With HeidiSQL, users can perform tasks like importing/exporting data, managing users and permissions, optimizing queries, and editing stored procedures. It is widely used by developers and database administrators for simplified database management without needing complex command-line operations. 
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 54 43 PM" src="https://github.com/user-attachments/assets/a5151c50-6f05-4d37-958a-568f8b810563" />
 
 after configuring php i was able to download and see osticket installer 
