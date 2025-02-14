@@ -41,9 +41,7 @@ Enabling IIS (Internet Information Services) turns a Windows machine into a web 
   
   <img width="1680" alt="Screen Shot 2025-02-14 at 12 08 37 PM" src="https://github.com/user-attachments/assets/ff4e4980-d1ed-4992-97e5-f81e6facce28" />
 
-<p
- Rewrite Module 2 is an extension for Internet Information Services (IIS) that allows you to create powerful URL rewriting rules. It enables web administrators to modify request URLs, redirect users, enforce SEO-friendly URLs, and implement security measures like HTTPS redirection. 
-</p>
+ Rewrite Module 2 is an extension for Internet Information Services (IIS) that allows you to create powerful URL rewriting rules. It enables web administrators to modify request URLs, redirect users, enforce SEO-friendly URLs, and implement security measures like HTTPS redirection.    
 <br />
 <img width="1680" alt="Screen Shot 2025-02-14 at 12 13 21 PM" src="https://github.com/user-attachments/assets/fed43315-7572-4684-a2a7-72021f1f38e2" />
 111111
